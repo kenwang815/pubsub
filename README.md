@@ -1,6 +1,8 @@
 # Simple pubsub demo
 Starting the main program automatically subscribe to the sensor topic, and the sensor publish the data to the broker. Subscribers will get sensor data through the broker.
 
+![image](https://github.com/kenwang815/pubsub/blob/ca7ca81644bce38b181c629b6e17d77b1471309e/pubsub.jpg)
+
 ## Quick start
 ```
 go run main.go
